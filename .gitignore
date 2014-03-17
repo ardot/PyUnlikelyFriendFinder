@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 constants.pyc
 constants.py
+=======
+*.py?
+*.egg-info
+>>>>>>> be8e843c6eeedf0a03cf27ffe10cd73bd24be81d
